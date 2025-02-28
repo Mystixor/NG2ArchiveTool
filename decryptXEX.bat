@@ -1,0 +1,1 @@
+xextool.exe -b xex_decrypted.bin default.xex
